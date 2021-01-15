@@ -4,9 +4,9 @@ Record audio with **pyaudio** on a Raspberry Pi (with **ReSpeaker 4-Mic Array**)
 
 ## Installation
 
-```$ git clone https://github.com/belismau/audio-recorder```
+```$ git clone https://github.com/mmlabox/TeamAudio```
 
-```$ cd audio-recorder```
+```$ cd Client```
 
 ```$ sudo pip3 install keyboard pyaudio pyzmq```
 
